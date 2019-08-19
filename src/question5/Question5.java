@@ -7,9 +7,9 @@ public class Question5 {
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt();
         if (num % 2 == 0) {
-            System.out.println("Even");
+            System.out.println("Even.");
         } else {
-            System.out.println("Odd");
+            System.out.println("Odd.");
         }
         scanner.close();
     }
