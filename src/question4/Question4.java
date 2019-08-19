@@ -13,5 +13,6 @@ public class Question4 {
         } else {
             System.out.println("Negative");
         }
+        scanner.close();
     }
 }
